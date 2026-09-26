@@ -50,7 +50,7 @@ pkg install fastfetch
 
 ```bash
 # Clone this repo
-git clone https://github.com/AndroidGeeksYT/dotfile_fastfetch ~/.config/fastfetch/
+git clone https://github.com/hamulta/dotfile_fastfetch ~/.config/fastfetch/
 ```
 
 ---
